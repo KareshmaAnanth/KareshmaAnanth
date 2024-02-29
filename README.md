@@ -45,8 +45,17 @@ I'm Kareshma , a passionate aspiring Engineer from GCES. Welcome to my GitHub pr
 Feel free to reach out! I'm always open to new opportunities, collaborations, and friendships. Let's connect and create something awesome together! 😊
 
 ## Connect with me 
+
 <p align="left">
-<a href="https://linkedin.com/in/kareshmarajaananthapadmanaban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareshmarajaananthapadmanaban" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/kareshmarajaananthapadmanaban" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareshmarajaananthapadmanaban" height="30" width="40" />
+  </a>
+  <a href="https://github.com/KareshmaAnanth" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="KareshmaAnanth" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/swaggy._.karish" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="swaggy._.karish" height="30" width="40" />
+  </a>
 </p>
 
 ## Fun Facts

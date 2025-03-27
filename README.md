@@ -1,12 +1,12 @@
 # Hello, World! 👋
 ![ezgif-6-77c546cf7c](https://github.com/KareshmaAnanth/KareshmaAnanth/assets/161157583/e79f170a-90ac-4a12-954a-5c50e1adef9d)
 
-I'm Kareshma , a passionate aspiring Engineer from GCES. Welcome to my GitHub profile! 🚀
+I'm Kareshma , a passionate Aspiring Cloud Engineer . Welcome to my GitHub profile! 🚀
 
 ## About Me
 
-- 🎓 Recent graduate with a degree in Electrical and Electronics.
-- 💻 I love coding, problem-solving, and building things that make a difference.
+- 🎓 Graduate with a degree in Electrical and Electronics.
+- 💻 I love designing,automating,coding, problem-solving, and building things that make a difference.
 - 🌱 Currently exploring various technologies and AI tools.
 - 📚 Constantly learning and expanding my skillset.
 
